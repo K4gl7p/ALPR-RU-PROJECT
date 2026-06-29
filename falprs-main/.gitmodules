@@ -1,0 +1,10 @@
+[submodule "contrib/abseil-cpp"]
+	path = contrib/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
+	branch = lts_2026_05_26
+[submodule "contrib/userver"]
+	path = contrib/userver
+	url = https://github.com/userver-framework/userver.git
+[submodule "contrib/zxing-cpp"]
+	path = contrib/zxing-cpp
+	url = https://github.com/zxing-cpp/zxing-cpp.git

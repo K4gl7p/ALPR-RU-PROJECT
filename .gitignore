@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.pt
+
+venv/
+env/
+
+runs/
+models/
+
+dataset/
