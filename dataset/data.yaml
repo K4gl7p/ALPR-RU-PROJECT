@@ -1,0 +1,12 @@
+names:
+- license-plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: russian-license-plates-detector
+  url: https://universe.roboflow.com/test-aomwr/russian-license-plates-detector/dataset/3
+  version: 3
+  workspace: test-aomwr
+test: ../test/images
+train: ../train/images
+val: ../valid/images
