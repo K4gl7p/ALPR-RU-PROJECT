@@ -9,3 +9,29 @@ datasets/*.cache
 *.zip
 *.rar
 .ipynb_checkpoints/
+# Виртуальные окружения
+venv/
+venv_yolos/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Результаты обучения
+runs/
+
+# Датасет (если не хочешь хранить его в Git)
+dataset/train/
+dataset/valid/
+dataset/test/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
