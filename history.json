@@ -1,0 +1,271 @@
+[
+  {
+    "timestamp": "2026-07-02T16:26:21.983292",
+    "filename": "09-19-06-Cam2_jpg.rf.2110d0ac45022f2e9062bd320e03c1e1.jpg",
+    "model": "yolov10_best.pt",
+    "plates": [
+      {
+        "bbox": [
+          0,
+          169,
+          479,
+          307
+        ],
+        "detection_conf": 0.9485094547271729,
+        "text": "RUS",
+        "text_conf": 0.9890453376969317
+      }
+    ],
+    "num_plates": 1,
+    "num_recognized": 1,
+    "elapsed": 1.1319382190704346,
+    "avg_det_conf": 0.9485094547271729,
+    "avg_text_conf": 0.9890453376969317
+  },
+  {
+    "timestamp": "2026-07-02T16:49:53.613669",
+    "filename": "9_bmp.rf.64284c6b4f49f7a160c398eddce0fe53.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "MOZOyB",
+        "conf": 0.949037492275238
+      }
+    ],
+    "elapsed": 1.14
+  },
+  {
+    "timestamp": "2026-07-02T16:51:03.022881",
+    "filename": "9_bmp.rf.64284c6b4f49f7a160c398eddce0fe53.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "MOZOyB",
+        "conf": 0.949037492275238
+      }
+    ],
+    "elapsed": 0.46
+  },
+  {
+    "timestamp": "2026-07-02T16:51:10.049473",
+    "filename": "4_bmp.rf.517d2062e04e208a50f0df78e16b6bcb.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "B336_El",
+        "conf": 0.9261086583137512
+      }
+    ],
+    "elapsed": 1.01
+  },
+  {
+    "timestamp": "2026-07-02T16:51:15.099769",
+    "filename": "4_bmp.rf.517d2062e04e208a50f0df78e16b6bcb.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "B336_El",
+        "conf": 0.9261086583137512
+      }
+    ],
+    "elapsed": 0.99
+  },
+  {
+    "timestamp": "2026-07-02T16:51:19.964805",
+    "filename": "4_jpg.rf.ea7115ea805b0e0b43908d70211df3e1.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "X999HB/97",
+        "conf": 0.911025881767273
+      }
+    ],
+    "elapsed": 0.41
+  },
+  {
+    "timestamp": "2026-07-02T16:52:29.509193",
+    "filename": "cropped_pic15387_1533051459.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "98.",
+        "conf": 0.8242549896240234
+      }
+    ],
+    "elapsed": 0.46
+  },
+  {
+    "timestamp": "2026-07-02T16:53:12.155830",
+    "filename": "cropped_pic13555_1531062063.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 2,
+    "num_recognized": 2,
+    "plates": [
+      {
+        "text": "'E222KME6:",
+        "conf": 0.9129447340965271
+      },
+      {
+        "text": "'ABTOHOMEPA",
+        "conf": 0.37526413798332214
+      }
+    ],
+    "elapsed": 0.55
+  },
+  {
+    "timestamp": "2026-07-02T16:54:49.866549",
+    "filename": "cropped_pic2162_1476794751.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 2,
+    "num_recognized": 2,
+    "plates": [
+      {
+        "text": "\"c777Ex/7Z]",
+        "conf": 0.7845759391784668
+      },
+      {
+        "text": "'ABTOHOMEPA",
+        "conf": 0.76490718126297
+      }
+    ],
+    "elapsed": 0.4
+  },
+  {
+    "timestamp": "2026-07-02T16:56:27.689176",
+    "filename": "cropped_pic5573_1495629484.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "1974",
+        "conf": 0.9498983025550842
+      }
+    ],
+    "elapsed": 0.33
+  },
+  {
+    "timestamp": "2026-07-02T16:59:56.505612",
+    "filename": "cropped_pic2162_1476634243.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 3,
+    "num_recognized": 3,
+    "plates": [
+      {
+        "text": "oan",
+        "conf": 0.7631972432136536
+      },
+      {
+        "text": "0",
+        "conf": 0.6827828884124756
+      },
+      {
+        "text": "ABTOHOMEPA",
+        "conf": 0.3782159388065338
+      }
+    ],
+    "elapsed": 0.66
+  },
+  {
+    "timestamp": "2026-07-02T17:00:16.565051",
+    "filename": "cropped_pic2162_1476633679.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 2,
+    "num_recognized": 2,
+    "plates": [
+      {
+        "text": "H999TE[19Z",
+        "conf": 0.8486747741699219
+      },
+      {
+        "text": "ABTOHOMEPA",
+        "conf": 0.6692348122596741
+      }
+    ],
+    "elapsed": 0.49
+  },
+  {
+    "timestamp": "2026-07-02T17:16:56.785356",
+    "filename": "cropped_pic2162_1476633679.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 2,
+    "num_recognized": 2,
+    "plates": [
+      {
+        "text": "H999TE[19Z",
+        "conf": 0.8486747741699219
+      },
+      {
+        "text": "ABTOHOMEPA",
+        "conf": 0.6692348122596741
+      }
+    ],
+    "elapsed": 0.47
+  },
+  {
+    "timestamp": "2026-07-02T17:17:03.306608",
+    "filename": "cropped_pic2162_1476634243.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 3,
+    "num_recognized": 3,
+    "plates": [
+      {
+        "text": "oan",
+        "conf": 0.7631972432136536
+      },
+      {
+        "text": "0",
+        "conf": 0.6827828884124756
+      },
+      {
+        "text": "ABTOHOMEPA",
+        "conf": 0.3782159388065338
+      }
+    ],
+    "elapsed": 0.6
+  },
+  {
+    "timestamp": "2026-07-02T17:17:09.752112",
+    "filename": "cropped_pic15387_1533051459.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 1,
+    "num_recognized": 1,
+    "plates": [
+      {
+        "text": "98.",
+        "conf": 0.8242549896240234
+      }
+    ],
+    "elapsed": 0.35
+  },
+  {
+    "timestamp": "2026-07-02T17:17:17.430137",
+    "filename": "cropped_pic13555_1531062063.jpg",
+    "model": "yolov10_best.pt",
+    "num_plates": 2,
+    "num_recognized": 2,
+    "plates": [
+      {
+        "text": "'E222KME6:",
+        "conf": 0.9129447340965271
+      },
+      {
+        "text": "'ABTOHOMEPA",
+        "conf": 0.37526413798332214
+      }
+    ],
+    "elapsed": 0.42
+  }
+]
